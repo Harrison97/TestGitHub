@@ -1,2 +1,2 @@
 # TestGitHub
-Just figuring out how to use GitHub.
+Just figuring out how to edit using GitHub.
